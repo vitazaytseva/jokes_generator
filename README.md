@@ -13,11 +13,11 @@ and the program will continue the text.
 
 ### Creators
 
-**Project-manger**: Vita Zaytseva  
-**Developer**: Egor Zharikov  
-**Data Analyst**: Evgenia Pareshina
-**Data Labeler**: Artyom Samoilovsky
-**Tech Writer**: Sasha Koykova
+- **Project-manger**: Vita Zaytseva  
+- **Developer**: Egor Zharikov  
+- **Data Analyst**: Evgenia Pareshina
+- **Data Labeler**: Artyom Samoilovsky
+- **Tech Writer**: Sasha Koykova
 
 ## Installing
 
